@@ -1,2 +1,2 @@
 # PIM
-Programa de integração de calculo de tragetória de meteoros
+Programa de integração de calculos de trajetórias de meteoros
